@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-     int a[20], n, smallest = 999999999;
+     int a[20], n, smallest = 9999;
     cout<<"Enter the size of the array: ";
     cin>>n;
     cout<<"Enter the elements of the array: ";
